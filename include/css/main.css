@@ -513,7 +513,11 @@ h3.spec {
 #home-slider #nextsectionslide i {
 	font-size: 40px;
 	color: #FFFFFF;
+	position: absolute;
+	left: 50%;
+	top: 60%;
 	line-height: 1em;
+	margin-top:5%;
 }
 
 #home-slider #nextsection i {
