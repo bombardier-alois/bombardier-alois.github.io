@@ -11,6 +11,15 @@ Fonts
 }
 
 @font-face {
+    font-family: 'GothamThin';
+    src: url('fonts/gotham-thin.eot');
+    src: url('fonts/gotham-thin.eot') format('embedded-opentype'),
+         url('fonts/gotham-thin.woff') format('woff'),
+         url('fonts/gotham-thin.ttf') format('truetype'),
+         url('fonts/gotham-thin.svg#gotham-thin') format('svg');
+}
+
+@font-face {
 	font-family: 'GothamThinIta';
 	src: url('fonts/Gotham-ThinIta.eot');
 	src: local('☺'), 
