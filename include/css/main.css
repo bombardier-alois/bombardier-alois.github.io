@@ -721,10 +721,8 @@ nav#menu #menu-nav li a:hover {
 
 .page_principal {
 	background: #2F3238;
-	padding: 100px 20px;
+	padding: 100px 0px;
 	position: relative;
-	margin-left: -20px;
-	margin-right: -20px;
 	z-index: 99;
 }
 
