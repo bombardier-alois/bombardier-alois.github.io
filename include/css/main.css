@@ -34,7 +34,7 @@ body{
 
 
 a{
-	color:#0FE8BE;
+	color:#ffec16;
 	text-decoration: none;
 	cursor: pointer;
 	
@@ -105,7 +105,7 @@ hr {
 }
 
 .color-text {
-    color: #0FE8BE;
+    color: #ffec16;
 }
 
 .through{
@@ -392,7 +392,7 @@ h3.spec {
 
 #home-slider #nextslide:hover,
 #home-slider #prevslide:hover {
-	background-color:#0FE8BE;
+	background-color:#ffec16;
 }
 
 
@@ -486,7 +486,7 @@ h3.spec {
 
 #home-slider ul#slide-list li.current-slide a,
 #home-slider ul#slide-list li.current-slide a:hover {
-	background-color:#0FE8BE;
+	background-color:#ffec16;
 }
 
 #home-slider #nextsection {
@@ -504,11 +504,11 @@ h3.spec {
 }
 
 #home-slider #nextsection:hover {
-	background-color:#0FE8BE;
+	background-color:#ffec16;
 }
 
 #home-slider #nextsectionslide i:hover {
-	color: #0FE8BE;
+	color: #ffec16;
 }
 
 
@@ -626,7 +626,7 @@ nav#menu #menu-nav2 li a {
 
 nav#menu #menu-nav2 li.current a,
 nav#menu #menu-nav2 li a:hover {
-	color: #0FE8BE;
+	color: #ffec16;
 }
 
 nav#menu #menu-nav li a {
@@ -640,7 +640,7 @@ nav#menu #menu-nav li a {
 
 nav#menu #menu-nav li.current a,
 nav#menu #menu-nav li a:hover {
-	color: #0FE8BE;
+	color: #ffec16;
 }
 
 
@@ -816,7 +816,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a.selected {
-	color: #0FE8BE;
+	color: #FFFFFF;
 }
 
 #thumbs {
@@ -876,7 +876,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #0FE8BE;
+	background: #ffec16;
 	
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -1099,7 +1099,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #0FE8BE;
+	background: #ffec16;
 	
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -1246,7 +1246,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit:hover {
-    background: #0FE8BE;
+    background: #ffec16;
     color: #FFFFFF;
 }
 
@@ -1367,7 +1367,7 @@ nav#menu #menu-nav li a:hover {
 
 #social ul li:hover a,
 #social ul li.active a {
-	background-color: #0FE8BE;	
+	background-color: #ffec16;	
 	
 	-webkit-transform: rotateY(0deg);
 	   -moz-transform: rotateY(0deg);
@@ -1432,7 +1432,7 @@ footer .credits {
 }
 
 #back-to-top:hover {
-	background-color:#0FE8BE;
+	background-color:#ffec16;
 }
 
 #back-to-top i {
@@ -1508,7 +1508,7 @@ footer .credits {
 	margin: -50px 0 0 -50px;
 	width: 100px;
 	height: 100px;
-	background: #0FE8BE;
+	background: #ffec16;
 	-webkit-border-radius: 999px;
 	-moz-border-radius: 999px;
 	border-radius: 999px;
